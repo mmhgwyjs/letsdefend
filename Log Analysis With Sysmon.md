@@ -4,20 +4,20 @@
 
 **Scenario:** Our company has experienced a breach on one of its endpoints. Your task is to investigate the breach thoroughly by analyzing the Sysmon logs of the compromised endpoint to gather all necessary information regarding the attack.
 
-**Category:** Endpoint Forensics
+**Role:** DFIR
 
 **Difficulty:** Easy
 
 **Files:** `N/A`
 
-**Tools:** `Volatility` 
+**Tools:** `` 
 
-**Note:** In this walkthrough, CyberDefenders offers a lab environment for us to utilize. This feature is included with the PRO subscription.
-  
+**Note:** In this walkthrough, LetsDefend provides a lab environment for our use. However, I found the lab to be quite slow based on my experience.
+
 ## **Questions and Answers**
 
 ***1. Which file gave access to the attacker?***  
-**Answer:** ***.***  
+**Answer: IDM.exe 
 
 ***2. What did the attacker use to bypass UAC? Mention the EXE.***  
 **Answer:** *********.***  
