@@ -14,6 +14,18 @@
 
 **Note:** In this walkthrough, LetsDefend provides a lab environment for our use. However, I found the lab to be quite slow based on my experience.
 
+
+![image](https://github.com/user-attachments/assets/a102b4e5-7d45-4875-8cbe-b8facef276b1)
+
+![image](https://github.com/user-attachments/assets/b6bd4a82-41d3-475c-bba7-9314a5af4ceb)
+
+![image](https://github.com/user-attachments/assets/9a0b74c3-9df8-470c-a02d-859affecadfb)
+
+![image](https://github.com/user-attachments/assets/cde8d0b4-5e2e-45b0-bc3c-58b0c03dfa2f)
+
+![image](https://github.com/user-attachments/assets/3c31398f-62cb-495d-b558-7a67262aefd8)
+
+
 ## **Questions and Answers**
 
 ***1. Which file gave access to the attacker?***  
